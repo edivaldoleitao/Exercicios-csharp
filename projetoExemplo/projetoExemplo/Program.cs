@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Net.Sockets;
-using projetoExemplo.Models;
+using projetoExemplo.Common.Models;
 using System.Globalization;
 using System.Runtime.InteropServices;
 

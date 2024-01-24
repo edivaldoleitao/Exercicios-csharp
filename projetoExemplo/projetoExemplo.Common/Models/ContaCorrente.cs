@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace projetoExemplo.Models
+namespace projetoExemplo.Common.Models
 {   
     // nenhuma classe pode herdar dessa classe
     public sealed class  ContaCorrente : Conta

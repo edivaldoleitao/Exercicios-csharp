@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "projetoExemplo.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/projetoExemplo.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/projetoExemplo.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "projetoExemplo.Common/1.0.0": {
+      "type": "project",
+      "path": "../projetoExemplo.Common/projetoExemplo.Common.csproj",
+      "msbuildProject": "../projetoExemplo.Common/projetoExemplo.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "projetoExemplo.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Win10\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\projetoExemplo.csproj",
+      "projectUniqueName": "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\projetoExemplo\\projetoExemplo.csproj",
       "projectName": "projetoExemplo",
-      "projectPath": "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\projetoExemplo.csproj",
+      "projectPath": "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\projetoExemplo\\projetoExemplo.csproj",
       "packagesPath": "C:\\Users\\Win10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\obj\\",
+      "outputPath": "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\projetoExemplo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Win10\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\projetoExemplo.Common\\projetoExemplo.Common.csproj": {
+              "projectPath": "C:\\Users\\Win10\\Documents\\dotnet\\projetoExemplo\\projetoExemplo.Common\\projetoExemplo.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

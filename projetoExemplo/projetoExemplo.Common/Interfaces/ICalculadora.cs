@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace projetoExemplo.Models
+namespace projetoExemplo.Common.Models
 {
     //o nome começa com 'I', é um contrato que as classes que implementam são obrigadas a ter
     //é possível implementar múltiplas interfaces de uma vez

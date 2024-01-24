@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace projetoExemplo.Models
+namespace projetoExemplo.Common.Models
 {
     //classe abstract que não pode ser instanciada, somente pode ser herdada
     public abstract class Conta
