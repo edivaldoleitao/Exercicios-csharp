@@ -5,6 +5,32 @@ using System.Globalization;
 using System.Runtime.InteropServices;
 
 
+
+
+// implementação do deconstrutor
+// Aluno a1 = new Aluno("edivaldo",28);
+// (string nome,int idade) = a1;
+// Console.WriteLine($"nome {nome} idade {idade}");
+
+// implementação de tuplas
+// LeituraArquivo leitura = new LeituraArquivo();
+
+//  var (sucesso, linhas, quantidadeLinhas) = leitura.lerARquivo("Arquivos/arquivoLeitura.txt");
+//  if (sucesso)
+//  {
+//     foreach (string linha in linhas)
+//      {
+//      Console.WriteLine(linha);
+//      } 
+//  }
+//  else{
+//      Console.WriteLine("erro");
+//  }
+
+
+// classe com documentação dos métodos e classe
+//Aluno a = new Aluno("nome",12);
+
 // DateTime dt1 = DateTime.Now;
 // DateTime dt2 = new DateTime(2023,12,26,22,00,00);
 

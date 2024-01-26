@@ -1,0 +1,12 @@
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\projetoExemplo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\projetoExemplo.Common.AssemblyInfoInputs.cache
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\projetoExemplo.Common.AssemblyInfo.cs
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\projetoExemplo.Common.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\projetoExemplo.Common.sourcelink.json
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\bin\Debug\net8.0\projetoExemplo.Common.deps.json
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\bin\Debug\net8.0\projetoExemplo.Common.dll
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\bin\Debug\net8.0\projetoExemplo.Common.pdb
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\projetoExemplo.Common.dll
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\refint\projetoExemplo.Common.dll
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\projetoExemplo.Common.pdb
+C:\Users\Win10\Documents\dotnet\projetoExemplo\projetoExemplo.Common\obj\Debug\net8.0\ref\projetoExemplo.Common.dll
